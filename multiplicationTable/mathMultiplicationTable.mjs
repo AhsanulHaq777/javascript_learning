@@ -1,3 +1,4 @@
+// empty array to hold the result of multiplication table
 let multiplication = [];
 const numvalue = 11;
 for (let i = 0; i < numvalue; i++) {
